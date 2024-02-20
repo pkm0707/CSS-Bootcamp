@@ -1,0 +1,9 @@
+=> to organize your code and make it more readable
+   you can apply 
+
+=> box model
+     border => thickness, style, color
+     padding 
+     margin
+
+=> 
