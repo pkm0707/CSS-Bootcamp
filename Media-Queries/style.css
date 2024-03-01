@@ -1,0 +1,37 @@
+div{
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin: 50px auto;
+    height: 150px;
+    margin:0;
+}
+h2{
+    padding: 60px;
+}
+
+@media screen and (max-width:1201px) {
+    div{
+        background-color: red;
+    }
+}
+@media screen and (max-width:1200px) {
+    div{
+        background-color: rgb(0, 255, 17);
+    }
+}
+@media screen and (max-width:1024px) {
+    div{
+        background-color: rgb(174, 0, 255);
+    }
+}
+@media screen and (max-width:768px) {
+    div{
+        background-color: rgb(255, 179, 0);
+    }
+}
+@media screen and (max-width:480px) {
+    div{
+        background-color: rgb(170, 255, 0);
+    }
+}
